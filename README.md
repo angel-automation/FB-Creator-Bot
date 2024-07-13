@@ -1,10 +1,10 @@
 # FB-Creator-Bot
 Facebook Accounts Creator
-- Free Version:
+  - Free Version:
  - Random Informations
  - Not Support Proxies (support in mobile api)
  - Web API
-- Paid Version :
+   - Paid Version :
  - Support Proxies
  - Mobile API
  - Request No Selenium
