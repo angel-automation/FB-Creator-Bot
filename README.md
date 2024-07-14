@@ -1,6 +1,6 @@
 # FB-Creator-Bot
 Facebook Accounts Creator
-  - Free Version:
+   - Free Version:
  - Random Informations
  - Not Support Proxies (support in mobile api)
  - Web API
@@ -12,4 +12,4 @@ Facebook Accounts Creator
  - Random Real Informations
  - Auto Email Confirmation
 - Contact :
-  - telegram : https://t.me/ANGLE_DEV
+  - telegram : https://t.me/ANGLE_DEV 
