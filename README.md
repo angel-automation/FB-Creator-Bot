@@ -12,4 +12,5 @@ Facebook Accounts Creator
  - Random Real Informations
  - Auto Email Confirmation
 - Contact :
-  - telegram : https://t.me/ANGLE_DEV 
+  - telegram : https://t.me/ANGLE_DEV
+  - update :23/07/2024
