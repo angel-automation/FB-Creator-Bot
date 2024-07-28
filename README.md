@@ -7,7 +7,7 @@ Facebook Accounts Creator
    - Paid Version :
  - Support Proxies
  - Mobile API
- - Request No Selenium
+ - Request No Selenium 
  - No CP (1%-3%)
  - Random Real Informations
  - Auto Email Confirmation
