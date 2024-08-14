@@ -14,4 +14,4 @@ Facebook Accounts Creator
  - Auto Email Confirmation
 - Contact :
   - telegram : https://t.me/ANGLE_DEV
-  - update :23/07/2024
+  - update :23/07/2024 
